@@ -30,7 +30,7 @@ Open a command prompt in the root directory of the project.
 Then, run the main.py file.
 
 ```html
-D:\...\openstack-nova-mining-exercise>python main.py
+D:\...\openstack_nova_project_commits_exercise>python main.py
 ```
 
 Then you get the following:
