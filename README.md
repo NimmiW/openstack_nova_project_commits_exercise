@@ -6,7 +6,7 @@ These instructions will get you a copy of the project to run on your local machi
 You need Python 3.7 or above to run this program.
 Then, you need to install the following libraries.
 ```
-pip install request
+pip install requests
 pip install numpy
 pip install pandas
 pip install matplotlib
