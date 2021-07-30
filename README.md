@@ -1,4 +1,4 @@
-# openstack-nova-mining-exercise
+# openstack_nova_project_commits_exercise
 
 These instructions will get you a copy of the project to run on your local machine.
 ### Python Prerequisites
@@ -22,7 +22,7 @@ https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-
 
 Clone the repo.
 ```
-git clone https://github.com/NimmiW/openstack-nova-mining-exercise.git
+git clone https://github.com/NimmiW/openstack_nova_project_commits_exercise.git
 ```
 
 Open a command prompt in the root directory of the project.
